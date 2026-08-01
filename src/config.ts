@@ -10,7 +10,7 @@ export const config = {
   // Countdown target. Before this date the site only shows the countdown.
   // Format: "YYYY-MM-DDTHH:mm:ss"
   // Set a future date to see the countdown, or a past date to skip straight to the album.
-  targetDate: '2026-11-27T00:00:00',
+  targetDate: '2020-11-27T00:00:00',
 
   // Background music (royalty-free ambient). Host your own file and paste the URL here,
   // or use null to disable music entirely.
