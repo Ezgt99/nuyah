@@ -22,7 +22,7 @@ export default function Scrapbook() {
           <p className="reveal font-body text-xs uppercase tracking-[0.5em] text-gold/70">
             The Album
           </p>
-          <h2 className="reveal mt-3 font-script text-5xl text-gradient-blush sm:text-6xl">
+          <h2 className="reveal mt-3 font-script text-5xl text-gradient-white sm:text-6xl">
             Roblox Memories
           </h2>
           <p className="reveal mx-auto mt-4 max-w-lg font-body text-sm leading-relaxed text-warm/50">

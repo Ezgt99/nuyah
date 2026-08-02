@@ -20,8 +20,8 @@ export default function Timeline() {
           <p className="reveal font-body text-xs uppercase tracking-[0.5em] text-gold/70">
             The Journey
           </p>
-          <h2 className="reveal mt-3 font-script text-5xl text-gradient-gold sm:text-6xl">
-            A Road Of Memories
+          <h2 className="reveal mt-3 font-script text-5xl text-gradient-white sm:text-6xl">
+            Foto - Foto Nuyah
           </h2>
         </header>
 

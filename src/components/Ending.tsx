@@ -60,7 +60,7 @@ export default function Ending({ onReplay }: { onReplay: () => void }) {
           The Last Page
         </p>
 
-        <h2 className="reveal mt-4 font-script text-5xl text-gradient-blush sm:text-6xl md:text-7xl">
+        <h2 className="reveal mt-4 font-script text-5xl text-gradient-white sm:text-6xl md:text-7xl">
           Thank You For Every Moment
         </h2>
 
@@ -84,7 +84,7 @@ export default function Ending({ onReplay }: { onReplay: () => void }) {
             <figcaption className="mt-3 text-center">
               <p className="font-script text-2xl text-ink-900">{config.name}</p>
               <p className="font-body text-[11px] uppercase tracking-[0.2em] text-ink-900/60">
-                Forever
+                Nuyah comel
               </p>
             </figcaption>
           </figure>
@@ -103,7 +103,7 @@ Semoga di umur yang baru ini kamu makin bahagia, jangan lupa jaga kesehatan, dan
         <h3 className="reveal mt-12 font-display text-3xl font-medium text-gradient-gold sm:text-4xl">
           Happy Birthday Nuyah
         </h3>
-        <p className="reveal mt-3 font-script text-4xl text-gradient-blush sm:text-5xl">
+        <p className="reveal mt-3 font-script text-4xl text-gradient-white sm:text-5xl">
           May Your Dreams Come True
         </p>
 

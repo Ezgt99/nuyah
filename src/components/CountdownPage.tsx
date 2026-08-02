@@ -82,7 +82,7 @@ export default function CountdownPage({ onComplete }: { onComplete: () => void }
         </div>
 
         <p className="mt-10 max-w-md font-body text-sm leading-relaxed text-warm/50">
-          Until the album opens. Come back when the stars align.
+          Until the Website opens. Come back when the stars align.
         </p>
       </div>
 

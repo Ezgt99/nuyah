@@ -95,7 +95,7 @@ export default function Hero({ onOpen }: { onOpen: () => void }) {
 
       {/* scroll hint */}
       <div className="absolute bottom-8 left-1/2 -translate-x-1/2 font-body text-[10px] uppercase tracking-[0.3em] text-warm/40">
-        scroll to explore
+        Click to explore
       </div>
     </section>
   );
