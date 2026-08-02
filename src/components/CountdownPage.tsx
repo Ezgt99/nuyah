@@ -62,7 +62,7 @@ export default function CountdownPage({ onComplete }: { onComplete: () => void }
           Something Special Is Coming
         </p>
         <h1 className="mb-2 font-script text-5xl text-gradient-white sm:text-6xl md:text-7xl">
-          Waiting For The Perfect Moment
+          Tunggu waktunya yahhhhhh xD
         </h1>
 
         <div className="mt-12 flex flex-wrap items-end justify-center gap-3 sm:gap-6">
