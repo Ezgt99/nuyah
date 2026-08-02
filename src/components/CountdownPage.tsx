@@ -61,7 +61,7 @@ export default function CountdownPage({ onComplete }: { onComplete: () => void }
         <p className="mb-3 font-body text-xs uppercase tracking-[0.5em] text-gold/80">
           Something Special Is Coming
         </p>
-        <h1 className="mb-2 font-script text-5xl text-gradient-blush sm:text-6xl md:text-7xl">
+        <h1 className="mb-2 font-script text-5xl text-gradient-white sm:text-6xl md:text-7xl">
           Waiting For The Perfect Moment
         </h1>
 

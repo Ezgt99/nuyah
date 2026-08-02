@@ -61,10 +61,10 @@ export default function Hero({ onOpen }: { onOpen: () => void }) {
         </p>
 
         <h1 className="font-display text-5xl font-medium text-warm sm:text-6xl md:text-7xl lg:text-8xl">
-          <span className="block text-gradient-gold">Happy Birthday</span>
+          <span className="block text-gradient-gold">Selamat Ulang Tahun ^_^</span>
         </h1>
 
-        <p className="mt-4 font-script text-6xl text-gradient-blush sm:text-7xl md:text-8xl">
+        <p className="mt-4 font-script text-6xl text-gradient-white sm:text-7xl md:text-8xl">
           {config.name}
         </p>
 
